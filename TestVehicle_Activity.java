@@ -130,6 +130,5 @@ class Motorcycle extends Vehicle {
             System.out.println("This motorcycle does not have a sidecar."); 
         }
     } 
-
-} 
+}
 
