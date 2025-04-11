@@ -81,7 +81,7 @@ class Vehicle {
             System.out.println("Motorcycle Details:");
             motorcycle.displayInfo(); 
             s.close(); 
-            System.out.println("\n");
+            System.out.println("");
             System.out.println("-------------------------");
             
         }
