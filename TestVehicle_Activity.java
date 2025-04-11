@@ -63,7 +63,7 @@ class Vehicle {
             s.nextLine();  
             System.out.print("Fuel Type: "); 
             String motorFuel = s.nextLine(); 
-            System.out.print("Has Sidecar? (true/false): ");  
+            System.out.print("Has Sidecar? (True/False): ");  
             boolean hasSidecar = s.nextBoolean(); 
             System.out.println("-------------------------");
             System.out.println("\n");
@@ -81,7 +81,7 @@ class Vehicle {
             System.out.println("Motorcycle Details:");
             motorcycle.displayInfo(); 
             s.close(); 
-            System.out.println("\n");
+            System.out.println("");
             System.out.println("-------------------------");
             
         }
@@ -132,3 +132,4 @@ class Motorcycle extends Vehicle {
     } 
 
 } 
+
