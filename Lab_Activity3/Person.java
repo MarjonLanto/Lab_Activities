@@ -19,7 +19,7 @@ public class Person {
     public class SchoolTest { 
 
         public static void main(String[] args) { 
-            Scanner s = new Scanner(System.in);
+            Scanner s = new Scanner(System.in); 
             
             //Input for student, teacher, and staff details
             System.out.println("-------------------------");
